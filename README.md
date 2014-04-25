@@ -1,6 +1,11 @@
 ## Data Structures and Algorithms CS1103
 
-Designed for inventory managers, it allows users to add/delete products, reduce/replenish stock, search, report best-sellers, etc.
+Designed for inventory managers, it allows users to:
+* Add/delete products
+* Reduce/replenish stock
+* Search products
+* Report best-sellers
+* and more
 
 View video for full features.
 
