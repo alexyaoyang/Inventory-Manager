@@ -16,7 +16,7 @@ Built with C++ & C#.
 http://youtu.be/brk6pKWxUJ4
 
 ## Team Members
-Alex Yao
-Cho Zin Tun
-Christina Lee
-Calvin Lee
+* Alex Yao
+* Cho Zin Tun
+* Christina Lee
+* Calvin Lee
